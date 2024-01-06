@@ -40,6 +40,35 @@ LinkedIn: https://www.linkedin.com/in/lalithkumar005/
 Thank you for exploring our React Weather App! We hope this app provides you with the latest weather updates and helps you plan your days with confidence. Enjoy the weather! 🌦️🚀
 
 
+Starting with this Repository:
+
+
+A brief description of how to start with this repository.
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   cd your-repository
+2.Navigate to the app directory:
+ cd your-app-name
+3.Install dependencies
+   npm install
+4.Run the project
+   npm run dev
+Happy coding
+
+
 
 
 
