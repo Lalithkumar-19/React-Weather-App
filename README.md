@@ -32,7 +32,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 👥 Authors:
 
-Your Name
+M.Lalith kumar
 🌐 Connect with Us:
 
 LinkedIn: https://www.linkedin.com/in/lalithkumar005/
